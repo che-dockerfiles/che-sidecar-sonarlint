@@ -8,5 +8,5 @@
 # Contributors:
 #   Red Hat, Inc. - initial API and implementation
 
-FROM quay.io/eclipse/che-sidecar-java:11-f76ca45
+FROM quay.io/eclipse/che-sidecar-java:11-7bd8c8c
 RUN apk add --no-cache nodejs
